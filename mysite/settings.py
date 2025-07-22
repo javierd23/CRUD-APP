@@ -91,9 +91,9 @@ WSGI_APPLICATION = 'dj4e-samples.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'carlos23$ads',
-        'USER': 'carlos23',
-        'PASSWORD': 'Familia199423!',
+        'NAME': 'ca23$ads',
+        'USER': 'car3@@@@@@',
+        'PASSWORD': '####'
         'HOST': 'carlos23.mysql.pythonanywhere-services.com',
          'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
