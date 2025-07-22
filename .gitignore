@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.pdb
+
+# Environments
+env/
+venv/
+.django-env/
+.django-venv/
+*.env
+
+# Django stuff
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.mo
+
+# Media & static files (optional)
+media/
+staticfiles/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git files
+*.orig
+
+# Secrets
+secrets.txt
+.env
